@@ -1,1 +1,0 @@
-# drone-avoiding-thrown-object
